@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uyeisaing.gokay.biz/sitemap.xml
